@@ -1,28 +1,47 @@
 export default function Services(){
     return <body>
-    <section> 
+    <section className="service"> 
         <h1>Services</h1>
         <div>
             <h2>Manicure</h2>
-            <p>Regular Manicure $4</p>
-            <p>Regular Pedicure</p>
+            <p>Regular Manicure</p>
             <p>Gel Manicure</p>
-            <p>French Tips</p>
+            <p>Full Set Acrylic Wrap</p>
+            <p>Fill-Ins Acrylic</p>
+            <p>Permanent French Acrylic</p>
+            <p>U.V. Gel French</p>
+            <p>U.V. Gel Tip</p>
+            <p>U.V. Gel Fill-Ins</p>
+            <p>Gel Powder Manicure</p>
+            <p>Pink White Repair</p>
         </div>
+        <br></br>
         <div>
             <h2>Pedicure</h2>
-            <p>Hot Stone Pedicure $30</p>
-            <p>Honey Pedicure $30</p>
+            <p>Regular Pedicure</p>
+            <p>Hot Stone Massage Pedicure</p>
+            <p>Spa Pedicure</p>
+            <p>Magic Pedicure</p>
+            <p>Dynamite Pedicure</p>
+            <p>French Pedicure</p>
         </div>
-        <div>
-            <h2>Massage</h2>
-            <p>Full Body 20 min $32</p>
-            <p>Foot Massage 10 min $30</p>
-        </div>
+        <br></br>
         <div>
             <h2>Waxing</h2>
-            <p>Eyebrows $10</p>
-            <p>Arms $10</p>
+            <p>Eyebrow</p>
+            <p>Lip</p>
+            <p>Chin</p>
+            <p>Bikini</p>
+            <p>Full Leg</p>
+            <p>Half Leg</p>
+            <p>Full Arm</p>
+            <p>Under Arm</p>
+            <p>Back</p>
+            <p>Full Face</p>
+        </div>
+        <br></br>
+        <div>
+            <small>Updated November 2023</small>
         </div>
     </section> 
 </body>
