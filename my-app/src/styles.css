@@ -6,6 +6,7 @@ body {
     margin:0;
     padding: 0;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url('/public/images/background.jpg');
 }
 
 .container {
@@ -52,7 +53,7 @@ body {
 }
 
 .contact {
-    background-color:  rgb(213, 162, 213);
+    background-color:  rgba(213, 162, 213, 0.804);
     align-items: center;
     padding: .25rem;
 }
@@ -75,7 +76,7 @@ body {
 }
 
 .service {
-    background-color: rgb(213, 162, 213);
+    background-color: rgba(213, 162, 213, 0.804);
     align-items: center;
     padding: .25rem;
 }
@@ -99,7 +100,7 @@ body {
 }
 
 .home {
-    background-color: rgb(213, 162, 213);
+    background-color:  rgba(213, 162, 213, 0.804);
     align-items: center;
     padding: .25rem;
 }
@@ -118,7 +119,7 @@ body {
 
 .home p{
     font-size: 1rem;
-    color: black;
+    color: purple  ;
 }
 
 .google-map {
@@ -142,4 +143,6 @@ body {
 .first-nails img{
     max-width: 100%;
     height: auto;
+    filter:brightness(130%);
 }
+
