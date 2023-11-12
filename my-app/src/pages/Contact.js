@@ -8,12 +8,13 @@ export default function Contact() {
                 <div>
                     <h2>Hours of Operation</h2>
                     <p>Monday 10AM-7:30PM</p>
-                    <p>Tuesday Closed</p>
+                    <p>Tuesday 10AM-7:30PM</p>
                     <p>Wednesday 10AM-7:30PM</p>
                     <p>Thursday 10AM-7:30PM</p>
                     <p>Friday 10AM-7:30PM</p>
                     <p>Saturday 9:30AM-7PM</p>
                     <p>Sunday 10AM-6PM</p>
+                    <small>*Closed on Tuesdays in the Winter</small>
                 </div>
                 <br></br>
                 <div>
