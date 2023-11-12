@@ -3,7 +3,7 @@ import {Link, useMatch, useResolvedPath} from "react-router-dom"
 export default function Navbar(){
     return <nav className= "nav">
         <Link to="/" className="site-title">
-            Nail & Spa</Link>
+            Dynamite Nails</Link>
         <ul>
            <CustomLink to="/services">Services</CustomLink>
            <CustomLink to="/contact">Contact</CustomLink>

@@ -7,6 +7,7 @@ body {
     padding: 0;
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-image: url('/public/images/background.jpg');
+    background-size:auto;
 }
 
 .container {
@@ -24,7 +25,7 @@ body {
 }
 
 .site-title {
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 
 .nav ul{
@@ -45,11 +46,11 @@ body {
 }
 
 .nav li.active {
-    background-color: tan;
+    background-color: rgb(249, 210, 173);
 }
 
 .nav li:hover {
-    background-color: rgb(187, 160, 125);
+    background-color:  rgb(249, 220, 183);
 }
 
 .contact {
@@ -119,7 +120,8 @@ body {
 
 .home p{
     font-size: 1rem;
-    color: purple  ;
+    color: rgb(88, 0, 88)  ;
+    font-family:Verdana, sans-serif;
 }
 
 .google-map {
@@ -143,6 +145,6 @@ body {
 .first-nails img{
     max-width: 100%;
     height: auto;
-    filter:brightness(130%);
+    filter:brightness(110%);
 }
 

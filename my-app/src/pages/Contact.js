@@ -3,7 +3,7 @@ export default function Contact() {
         <body>
             <section className="contact"> 
                 <h1>Contact Us</h1>
-                <p>(123) 456-7890</p>
+                <p>(631) 696-8848</p>
                 <br></br>
                 <div>
                     <h2>Hours of Operation</h2>
@@ -18,15 +18,15 @@ export default function Contact() {
                 <br></br>
                 <div>
                     <h2>Directions</h2>
-                    <p>New York, NY</p>
+                    <p>765 Horseblock Rd, Farmingville, New York 11738</p>
                 </div>
                 <div className="google-map">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d387194.0622236789!2d-74.30932477148002!3d40.69701929469058!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY!5e0!3m2!1sen!2sus!4v1698952436674!5m2!1sen!2sus" width="600" height="450" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3018.8167814420353!2d-73.03084249999999!3d40.8319879!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e84637dac00001%3A0xd75676dee46a35e!2s765%20Horseblock%20Road%2C%20Farmingville%2C%20NY%2011738!5e0!3m2!1sen!2sus!4v1699198895420!5m2!1sen!2sus" width="600" height="450" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
                 <br></br>
                 <div className="instagram">
                     <h2>Find more on Instagram</h2>
-                    <a href="https://www.google.com/">
+                    <a href="https://www.instagram.com/dynamitenails631/">
                         <img src="/images/instagram-icon.png" alt="@nailSalon"/>
                     </a>
                 </div>

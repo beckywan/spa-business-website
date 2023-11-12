@@ -4,9 +4,16 @@ import 'react-slideshow-image/dist/styles.css'
 
 
 const slideImages = [
-  '/images/wedding-nails.webp',
-  '/images/night-nail.jpg',
-  '/images/simple-nail.jpg',
+  '/images/nail8.jpg',
+  '/images/nail6.jpg',
+  '/images/nail9.jpg',
+  '/images/nail10.jpg',
+  '/images/nail5.jpg',
+  '/images/nail11.jpg',
+  '/images/nail4.jpg',
+  '/images/nail3.jpg',
+  '/images/nail2.jpg',
+  '/images/nail1.jpg',
 ];
 
 const Home = () => {
@@ -14,8 +21,9 @@ const Home = () => {
       <div className='home'>
         <h1>Nail Care, Spa, Beauty</h1>
          <div className="first-nails">
-             <img src="/images/fall-nails.jpg" alt="Image of Beautiful Nail Art by Us"/>
-             <p>Taking care of your nails is a part of taking care of yourself. Do something for you by checking out Nail Spa. </p>
+             <img src="/images/nail7.jpg" alt="Image of Beautiful Nail Art by Us"/>
+             <br></br>
+             <p>Taking care of your nails is a part of taking care of yourself. Do something for you by checking out Dynamite Nails. </p>
          </div>  
 
       <div className="slide-container" style={{ width: "100%" , height: "100%"}}>
